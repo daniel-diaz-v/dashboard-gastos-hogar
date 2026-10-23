@@ -23,10 +23,10 @@ Controlar y entender en qué categoría gasto más, cómo cambia mi gasto año a
 - El promedio mensual bajó **6.4%** frente al año previo.
 
 ## 🖼️ Capturas
-![Resumen](img/01_resumen.png)
-![Luz](img/02_luz.png)
-![Agua](img/03_agua.png)
-![Internet](img/04_internet.png)
+![Resumen](img/01_resumen.jpg)
+![Luz](img/02_luz.jpg)
+![Agua](img/03_agua.jpg)
+![Internet](img/04_internet.jpg)
 
 ## 📁 Archivos
 - `data/`: datos originales
