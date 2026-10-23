@@ -19,7 +19,7 @@ Controlar y entender en qué categoría gasto más, cómo cambia mi gasto año a
 ## 📊 Hallazgos
 - Gasto total: **S/ 6,834.50** en 34 meses (promedio **S/ 201 al mes**).
 - El mes más caro fue **enero 2024 (S/ 304)**.
-- Luz representa el **43.9%** del gasto, internet el **42.2%** y agua el **13.9%**.
+- Internet representa el **43.9%** del gasto, luz el **42.2%** y agua el **13.9%**.
 - El promedio mensual bajó **6.4%** frente al año previo.
 
 ## 🖼️ Capturas
