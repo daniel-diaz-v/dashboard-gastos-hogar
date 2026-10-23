@@ -1,0 +1,103 @@
+Fecha,Categoria,Consumo,Unidad,Monto,Proveedor
+1/01/2024,Luz,179,kWh,164.0,Enel
+1/02/2024,Luz,174,kWh,155.0,Enel
+1/03/2024,Luz,149,kWh,129.0,Enel
+1/04/2024,Luz,133,kWh,106.5,Enel
+1/05/2024,Luz,156,kWh,125.0,Enel
+1/06/2024,Luz,120,kWh,95.5,Enel
+1/07/2024,Luz,69,kWh,55.5,Enel
+1/08/2024,Luz,74,kWh,60.0,Enel
+1/09/2024,Luz,63,kWh,51.5,Enel
+1/10/2024,Luz,58,kWh,47.0,Enel
+1/11/2024,Luz,78,kWh,61.5,Enel
+1/12/2024,Luz,44,kWh,36.0,Enel
+1/01/2025,Luz,99,kWh,90.0,Enel
+1/02/2025,Luz,104,kWh,95.0,Enel
+1/03/2025,Luz,64,kWh,59.0,Enel
+1/04/2025,Luz,77,kWh,70.0,Enel
+1/05/2025,Luz,83,kWh,75.5,Enel
+1/06/2025,Luz,77,kWh,69.5,Enel
+1/07/2025,Luz,81,kWh,72.5,Enel
+1/08/2025,Luz,81,kWh,73.0,Enel
+1/09/2025,Luz,110,kWh,96.5,Enel
+1/10/2025,Luz,108,kWh,93.0,Enel
+1/11/2025,Luz,114,kWh,96.5,Enel
+1/12/2025,Luz,90,kWh,74.5,Enel
+1/01/2026,Luz,122,kWh,92.5,Enel
+1/02/2026,Luz,117,kWh,90.0,Enel
+1/03/2026,Luz,122,kWh,89.5,Enel
+1/04/2026,Luz,141,kWh,111.5,Enel
+1/05/2026,Luz,104,kWh,80.0,Enel
+1/06/2026,Luz,89,kWh,67.0,Enel
+1/07/2026,Luz,91,kWh,70.0,Enel
+1/08/2026,Luz,110,kWh,86.0,Enel
+1/09/2026,Luz,86,kWh,68.5,Enel
+1/10/2026,Luz,99,kWh,78.0,Enel
+1/01/2024,Wifi,,,120.0,Movistar
+1/02/2024,Wifi,,,120.0,Movistar
+1/03/2024,Wifi,,,120.0,Movistar
+1/04/2024,Wifi,,,120.0,Movistar
+1/05/2024,Wifi,,,120.0,Movistar
+1/06/2024,Wifi,,,120.0,Movistar
+1/07/2024,Wifi,,,120.0,Movistar
+1/08/2024,Wifi,,,120.0,Movistar
+1/09/2024,Wifi,,,120.0,Movistar
+1/10/2024,Wifi,,,120.0,Movistar
+1/11/2024,Wifi,,,120.0,Movistar
+1/12/2024,Wifi,,,120.0,Movistar
+1/01/2025,Wifi,,,80.0,Internet Hogar
+1/02/2025,Wifi,,,80.0,Internet Hogar
+1/03/2025,Wifi,,,80.0,Internet Hogar
+1/04/2025,Wifi,,,80.0,Internet Hogar
+1/05/2025,Wifi,,,80.0,Internet Hogar
+1/06/2025,Wifi,,,80.0,Internet Hogar
+1/07/2025,Wifi,,,80.0,Internet Hogar
+1/08/2025,Wifi,,,80.0,Internet Hogar
+1/09/2025,Wifi,,,80.0,Internet Hogar
+1/10/2025,Wifi,,,80.0,Internet Hogar
+1/11/2025,Wifi,,,80.0,Internet Hogar
+1/12/2025,Wifi,,,80.0,Internet Hogar
+1/01/2026,Wifi,,,60.0,Win
+1/02/2026,Wifi,,,60.0,Win
+1/03/2026,Wifi,,,60.0,Win
+1/04/2026,Wifi,,,60.0,Win
+1/05/2026,Wifi,,,60.0,Win
+1/06/2026,Wifi,,,60.0,Win
+1/07/2026,Wifi,,,60.0,Win
+1/08/2026,Wifi,,,60.0,Win
+1/09/2026,Wifi,,,60.0,Win
+1/10/2026,Wifi,,,60.0,Win
+1/01/2024,Agua,4.6,m³,20.0,Sedapal
+1/02/2024,Agua,4.6,m³,20.0,Sedapal
+1/03/2024,Agua,4.6,m³,20.0,Sedapal
+1/04/2024,Agua,4.6,m³,20.0,Sedapal
+1/05/2024,Agua,4.6,m³,20.0,Sedapal
+1/06/2024,Agua,4.6,m³,20.0,Sedapal
+1/07/2024,Agua,4.6,m³,20.0,Sedapal
+1/08/2024,Agua,4.6,m³,20.0,Sedapal
+1/09/2024,Agua,4.6,m³,20.0,Sedapal
+1/10/2024,Agua,4.6,m³,20.0,Sedapal
+1/11/2024,Agua,4.6,m³,20.0,Sedapal
+1/12/2024,Agua,4.6,m³,20.0,Sedapal
+1/01/2025,Agua,6.9,m³,30.0,Sedapal
+1/02/2025,Agua,6.9,m³,30.0,Sedapal
+1/03/2025,Agua,6.9,m³,30.0,Sedapal
+1/04/2025,Agua,6.9,m³,30.0,Sedapal
+1/05/2025,Agua,6.9,m³,30.0,Sedapal
+1/06/2025,Agua,6.9,m³,30.0,Sedapal
+1/07/2025,Agua,6.9,m³,30.0,Sedapal
+1/08/2025,Agua,6.9,m³,30.0,Sedapal
+1/09/2025,Agua,6.9,m³,30.0,Sedapal
+1/10/2025,Agua,6.9,m³,30.0,Sedapal
+1/11/2025,Agua,6.9,m³,30.0,Sedapal
+1/12/2025,Agua,6.9,m³,30.0,Sedapal
+1/01/2026,Agua,7,m³,35.0,Sedapal
+1/02/2026,Agua,7,m³,35.0,Sedapal
+1/03/2026,Agua,7,m³,35.0,Sedapal
+1/04/2026,Agua,7,m³,35.0,Sedapal
+1/05/2026,Agua,7,m³,35.0,Sedapal
+1/06/2026,Agua,7,m³,35.0,Sedapal
+1/07/2026,Agua,7,m³,35.0,Sedapal
+1/08/2026,Agua,7,m³,35.0,Sedapal
+1/09/2026,Agua,7,m³,35.0,Sedapal
+1/10/2026,Agua,7,m³,35.0,Sedapal
